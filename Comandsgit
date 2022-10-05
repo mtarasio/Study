@@ -1,3 +1,4 @@
 добавьте все файлы в локальное хранилище                                git add.           git commit -m
-создайте новую ветку и перейдите в неё                                  git branch form    git checkout form
-в новой ветке создайте папку blog с файлами: index.js, index.html       
+создайте новую ветку и перейдите в неё                                  git branch blog    git checkout blog
+в новой ветке создайте папку blog с файлами: index.js, index.html
+загрузите на удаленный репозиторий лишь основную ветку вашего проекта     
